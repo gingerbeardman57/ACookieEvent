@@ -1,8 +1,5 @@
 /**
-Name: Joseph Roesch
-Date: 02/15/2019
-Course/Section: IT206.003
-Assignment 2
+
 Description:
 This program supports a person who is selling cookies for a specific event. The user will be required to input the event name and the event type (for profit or not for profit).
 The user will then be prompted to input a maximum number of cookies allowed to be sold. If they dont' know that number, they will be instructed to enter '0' which will be a 
